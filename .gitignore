@@ -261,4 +261,5 @@ __pycache__/
 *.pyc
 
 # Build output
-Quick Unset Target/GameData/Plugins/*
+*.dll
+*.pdb
