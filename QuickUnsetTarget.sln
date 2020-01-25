@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quick Unset Target", "Quick Unset Target\Quick Unset Target.csproj", "{3ED1B4B0-3076-4173-8DC0-55D45BAEBDC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickUnsetTarget", "QuickUnsetTarget\QuickUnsetTarget.csproj", "{3ED1B4B0-3076-4173-8DC0-55D45BAEBDC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
