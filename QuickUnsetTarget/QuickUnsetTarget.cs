@@ -10,7 +10,7 @@ namespace prestja {
 			launcherButton = ApplicationLauncher.Instance.AddModApplication(
 				() => { FlightGlobals.fetch.SetVesselTarget(null);},
 				null, null, null, null, null, 
-				ApplicationLauncher.AppScenes.FLIGHT, 
+				ApplicationLauncher.AppScenes.FLIGHT | ApplicationLauncher.AppScenes.MAPVIEW, 
 				GameDatabase.Instance.GetTexture("QuickUnsetTarget/icon", false));
 		}
 
